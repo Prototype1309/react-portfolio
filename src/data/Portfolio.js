@@ -1,4 +1,4 @@
-import project from "../assets/Project1SS.png";
+import project from "../assets/zooquarium.png";
 import bugbytes from "../assets/main.jpg";
 import discover from "../assets/discoverDevs.png";
 import weather from "../assets/Weather-app.png";
