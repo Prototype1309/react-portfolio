@@ -1,15 +1,20 @@
-import discover from "../assets/discoverDevs.png"
+import project from "../assets/Project1SS.png"
+import bugbytes from "../assets/main.jpg";
+import discover from "../assets/discoverDevs.png";
+import weather from "../assets/Weather-app.png";
+import Editor from "../assets/Jate.png";
+import Scheduler from "../assets/Workday-Scheduler.png";
 
 export default [
   {
     title: "Zooquarium",
-    imgUrl: "../src/assets/Project1SS.PNG",
+    imgUrl: project,
     stack: ["HTML", "CSS", "JavaScript"],
     link: "https://caitlinramsey.github.io/zooquarium/",
   },
   {
     title: "BugBytes",
-    imgUrl: "../src/assets/main.JPG",
+    imgUrl: bugbytes,
     stack: ["React", "Tailwind", "Vite"],
     link: "https://bugbytes-eea33095845f.herokuapp.com/",
   },
@@ -21,19 +26,19 @@ export default [
   },
   {
     title: "City Weather App",
-    imgUrl: "../src/assets/Weather-app.png",
+    imgUrl: weather,
     stack: ["HTML", "CSS", "JavaScript", "Api's"],
     link: "https://prototype1309.github.io/City-Weather-App/",
   },
   {
     title: "Text Editor",
-    imgUrl: "../src/assets/Jate.png",
+    imgUrl: Editor,
     stack: ["concurrently", "nodemon", "webpack", "JavaScript"],
     link: "https://textteditorr-758cd3961530.herokuapp.com/",
   },
   {
     title: "Workday Scheduler",
-    imgUrl: "../src/assets/Workday-Scheduler.gif",
+    imgUrl: Scheduler,
     stack: ["HTML", "CSS", "JavaScript"],
     link: "https://prototype1309.github.io/workday-scheduler-/",
   },
