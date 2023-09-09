@@ -1,9 +1,9 @@
-import project from "../assets/Project1SS.png"
+import project from "../assets/Project1SS.png";
 import bugbytes from "../assets/main.jpg";
 import discover from "../assets/discoverDevs.png";
 import weather from "../assets/Weather-app.png";
 import Editor from "../assets/Jate.png";
-import Scheduler from "../assets/Workday-Scheduler.png";
+import Scheduler from "../assets/Workday-Scheduler.gif";
 
 export default [
   {
