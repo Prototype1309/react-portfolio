@@ -1,3 +1,5 @@
+import discover from "../assets/discoverDevs.png"
+
 export default [
   {
     title: "Zooquarium",
@@ -13,7 +15,7 @@ export default [
   },
   {
     title: "Discover Devs",
-    imgUrl: "../src/assets/discoverDevs.png",
+    imgUrl: discover,
     stack: ["Handlebars", "CSS", "JavaScript", "NoSQL"],
     link: "https://discoverdevs-2aa18af2a0dc.herokuapp.com/home",
   },
